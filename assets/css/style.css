@@ -1,0 +1,126 @@
+.number{color:black}
+.Myintro{
+  background-color:black; 
+  padding:100px;
+  position:relative;
+
+}
+
+
+#intro{
+  background:blue;
+  color:white;
+  position:absolute;
+  right:150px;
+  top:0;
+  width:300px;
+  width:calc(100vw/1.5);
+}
+
+
+.number1{
+  color:blue;
+}
+
+
+.image
+{
+  position:absolute;
+  left:0px;
+  top:0px; 
+}
+
+.contact{
+  position:fixed;
+  height:150px;
+  background:green;
+  width: calc(100vw);
+  height:65px;
+  border: 5px solid red;  
+  top:15px;
+  left:0px;
+  position:relative;
+}
+
+
+.text1{
+  position:absolute;
+  left:0;
+  top:0;
+}
+
+
+
+
+#email{
+  background:yellow;
+  position:absolute;
+  top:45px;
+  
+  
+}
+#github{
+  background:yellow;
+  position:absolute;
+  top:45px;
+  left:33.33%;
+ 
+  
+}
+
+#linkedin
+{
+  background:yellow;
+  position:absolute;
+  top:45px;
+  left:66.66%
+  
+  
+}
+
+
+.dream{
+  
+  position:relative;
+  border:solid black 10px;
+  top:20px;
+  width:calc(100vw/3.5);
+  height:300px;
+  background:green;
+}
+.john{
+position:absolute;
+top:45px;
+}
+
+h2{
+  color:yellow
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+  .p{
+    color:yellow;
+  }
+
+  .basic{
+      color:yellow;
+      size:20px;
+      background-color:green;
+  }
+ .school{
+      background-color: Yellow;
+ }
+ .skill{
+    background-color:red;
+    color:yellow;
+ }
+ .frab{
+     color:red;
+ }
