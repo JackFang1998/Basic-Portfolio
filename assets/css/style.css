@@ -1,4 +1,9 @@
-.number{color:black}
+.number{
+    color: black;
+    margin: 0px;
+    border: solid green 5px;
+
+}
 .Myintro{
   background-color:black; 
   padding:100px;
@@ -8,13 +13,14 @@
 
 
 #intro{
-  background:blue;
-  color:white;
-  position:absolute;
-  right:150px;
-  top:0;
-  width:300px;
-  width:calc(100vw/1.5);
+    background: beige;
+    
+    color: brown;
+    position: absolute;
+    right:0px;
+    top: 0px;
+   
+    width: calc(80vw);
 }
 
 
@@ -123,4 +129,47 @@ h2{
  }
  .frab{
      color:red;
+ }
+ .title{
+     background-color:black;
+ }
+ .jack{
+    background-color: wheat;
+    width: calc(100vw/4.5);
+    border: solid black 5px;
+ }
+ .detail{
+    position: absolute;
+    color: Wheat;
+    width: calc(90vw/2);
+    position: absolute;
+    right: 550px;
+    bottom: 1px;
+ }
+ .navigation{
+    background-color: yellow;
+    width: 70vw;
+    right: 0px;
+    position: absolute;
+    top: 26px;
+    right: 20px;
+ }
+ .lego{
+     color:green;
+     position:relative;
+    height: 446px;
+    width: 500px;
+    background: yellow;
+    position: absolute;
+    top: 366px;
+    right: 511px;
+    border: solid black 10px;
+ }
+ .offroad{
+    position:absolute;
+    left:35px;
+ }
+ .ewd{
+     position:absolute;
+     left:40px;
  }

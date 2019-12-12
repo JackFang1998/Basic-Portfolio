@@ -1,0 +1,64 @@
+.top{
+position:absolute;
+width:calc(100vw);
+height:20%; 
+background:green;
+}
+.middle{
+border:solid black 15px; 
+position:absolute;
+left:30%;
+right:30%;
+top:23%;
+height:100%;
+background:yellow;
+}
+
+.inside{
+   position:absolute;
+   width: 25%;
+   height:50%;
+   top:20px;
+   left:20px; 
+   background:yellow;
+}
+.head{
+    
+    color:blue;
+    font-size:35px;
+}
+.contact{
+    background:beige;
+    position:absolute;
+    top:20px;
+    font-size:70px;
+    left:30%;
+    right:30%;  
+}
+.line{
+    height:4px;
+    background:black;
+}
+.message{
+    position:absolute;
+    height:50%;
+    width:85%;
+    left:15px;
+
+}
+.button{
+    position:absolute;
+    left:10%;
+    bottom:2%;
+    height:50px;
+    width:100px;
+}
+.navigation{
+    background:Beige;
+    position:absolute;
+    width:35%;
+    height:40%;
+    right:15%;
+    top:30%;
+    font-size:50px;
+}
