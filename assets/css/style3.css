@@ -1,106 +1,98 @@
-.top{
-background-color:#ffffff;
-position:relative;
-left:5px;
-right:5px;
-top:10%;
-height:40px;
-border: solid #cccccc 5px;
-
+.top {
+  background-color: #ffffff;
+  position: relative;
+  left: 5px;
+  right: 5px;
+  top: 10%;
+  height: 40px;
+  border: solid #cccccc 5px;
 }
 
-.middle{
-    background-color:#ffffff;
-    
-    right:30%;
-    left:30%;
-    position:absolute;
-   
-    top:17%;
-    height:78%;   
-    border: solid #cccccc 15px;
-    
-}
-.footer{
-    background-color:#666666;
-    border:solid black 10 px;
-    bottom:10%;
+.middle {
+  background-color: #ffffff;
 
-}
-.head{
-    background-color:#4aaaa5;
-    position: relative;
-    top:5%;
-    height:80%;
-    width:20%;
-}
-.text{
-    position:relative;
-    bottom:5px;
-    font-size:30px;
-}
-.navigation{
-    position:relative;
-    right:20%;
-  
-    background:#ffffff;
-    bottom: 64%;
-    left: 81%;
-    height: 64%;
-    width:13%;
-    color:#777777;
-   
-}    
-.category{
-    color:#777777;
-}
-h2{font-size: 15px;
-    color: #4aaaa5;
+  right: 30%;
+  left: 30%;
+  position: absolute;
 
+  top: 17%;
+  height: 78%;
+  border: solid #cccccc 15px;
 }
-.deere{
-    
-    background:#4aaaa5;
-    
+.footer {
+  background-color: #666666;
+  border: solid black 10 px;
+  bottom: 10%;
 }
-.p{
-    color:white;
+.head {
+  background-color: #4aaaa5;
+  position: relative;
+  top: 5%;
+  height: 80%;
+  width: 20%;
 }
-.john{
-    background:beige;
-    position: absolute;
-    right: 55%;
-    bottom: 60%;
-    top: 10%;
+.text {
+  position: relative;
+  bottom: 5px;
+  font-size: 30px;
 }
-.iwojima{
-    background:beige;
-    position: absolute;
-    left: 55%;
-    bottom: 60%;
-    top: 10%;
-}
-.offroad{
-    background:beige;
-    position: absolute;
-    right: 55%;
-    bottom: 45%;
-    height:40px;
-}
-.EngrProject{
-    background:beige;
-    position: absolute;
-    left: 55%;
-    bottom: 45%;
-    height:40px;
+.navigation {
+  position: relative;
+  right: 20%;
 
+  background: #ffffff;
+  bottom: 64%;
+  left: 81%;
+  height: 64%;
+  width: 13%;
+  color: #777777;
 }
-.footer{
-    position:absolute;
-    background: #666666;
-    columns: #777777;
-    left:0;
-    bottom:-20px;
-    width:100vw;
-
-  }
+.category {
+  color: #777777;
+}
+h2 {
+  font-size: 15px;
+  color: #4aaaa5;
+}
+.deere {
+  background: #4aaaa5;
+}
+.p {
+  color: white;
+}
+.john {
+  background: beige;
+  position: absolute;
+  right: 55%;
+  bottom: 60%;
+  top: 10%;
+}
+.iwojima {
+  background: beige;
+  position: absolute;
+  left: 55%;
+  bottom: 60%;
+  top: 10%;
+}
+.offroad {
+  background: beige;
+  position: absolute;
+  right: 55%;
+  bottom: 11%;
+  height: 196px;
+}
+.EngrProject {
+  background: beige;
+  position: absolute;
+  left: 55%;
+  bottom: 11%;
+  height: 196px;
+}
+.footer {
+  position: absolute;
+  background: #666666;
+  columns: #777777;
+  left: 0;
+  bottom: -20px;
+  width: 100vw;
+}
