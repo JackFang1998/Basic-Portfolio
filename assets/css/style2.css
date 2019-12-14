@@ -2,16 +2,16 @@
 position:absolute;
 width:calc(100vw);
 height:20%; 
-background:green;
+background:#ffffff;
 }
 .middle{
-border:solid black 15px; 
+border:solid #cccccc 15px; 
 position:absolute;
 left:30%;
 right:30%;
 top:23%;
-height:100%;
-background:yellow;
+height:76%;
+background:#ffffff;
 }
 
 .inside{
@@ -20,15 +20,16 @@ background:yellow;
    height:50%;
    top:20px;
    left:20px; 
-   background:yellow;
+   background:#4aaaa5;
 }
 .head{
     
-    color:blue;
+    color:white;
     font-size:35px;
 }
 .contact{
-    background:beige;
+    color:white;
+    background: #4aaaa5;;
     position:absolute;
     top:20px;
     font-size:70px;
@@ -37,11 +38,11 @@ background:yellow;
 }
 .line{
     height:4px;
-    background:black;
+    background: #cccccc;;
 }
 .message{
     position:absolute;
-    height:50%;
+    height:30%;
     width:85%;
     left:15px;
 
@@ -52,13 +53,28 @@ background:yellow;
     bottom:2%;
     height:50px;
     width:100px;
+    color:#777777;
 }
 .navigation{
-    background:Beige;
+    
+    background: #4aaaa5;
     position:absolute;
     width:35%;
-    height:40%;
+    height:46%;
     right:15%;
     top:30%;
     font-size:50px;
 }
+.navi{
+    color:white;
+}
+.input{
+    color:#777777;
+}
+.footer{
+    position:absolute;
+    bottom: -30px;
+    background: #666666;
+    columns: #777777;
+    width:100vw;
+  }

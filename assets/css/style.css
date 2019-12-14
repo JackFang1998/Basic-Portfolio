@@ -1,11 +1,11 @@
 .number{
-    color: black;
+    color:#4aaaa5;
     margin: 0px;
-    border: solid green 5px;
+    border: solid#dddddd 10px;
 
 }
 .Myintro{
-  background-color:black; 
+  background-color:#ffffff ;
   padding:100px;
   position:relative;
 
@@ -13,9 +13,10 @@
 
 
 #intro{
-    background: beige;
-    
-    color: brown;
+    border: solid #dddddd 7px; 
+    background: #ffffff;
+    font-size:x-large;
+    color: #777777;
     position: absolute;
     right:0px;
     top: 0px;
@@ -24,9 +25,6 @@
 }
 
 
-.number1{
-  color:blue;
-}
 
 
 .image
@@ -38,138 +36,85 @@
 
 .contact{
   position:fixed;
-  height:150px;
-  background:green;
+  background:#ffffff;
   width: calc(100vw);
-  height:65px;
-  border: 5px solid red;  
-  top:15px;
+  height:100px;
+  border: 5px solid#dddddd;  
+  top:145px;
   left:0px;
   position:relative;
 }
 
 
 .text1{
+  color:#777777;
   position:absolute;
   left:0;
   top:0;
+  font-size:25px;
 }
-
-
-
 
 #email{
+  font-size:20px;
   background:yellow;
   position:absolute;
-  top:45px;
-  
-  
+  top:55px;
 }
 #github{
+  font-size:20px;
   background:yellow;
   position:absolute;
-  top:45px;
+  top:55px;
   left:33.33%;
- 
-  
 }
 
 #linkedin
 {
+  font-size:20px;
   background:yellow;
   position:absolute;
-  top:45px;
+  top:55px;
   left:66.66%
-  
-  
 }
 
-
-.dream{
-  
-  position:relative;
-  border:solid black 10px;
-  top:20px;
-  width:calc(100vw/3.5);
-  height:300px;
-  background:green;
-}
-.john{
-position:absolute;
-top:45px;
-}
-
-h2{
-  color:yellow
-}
-
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-  }
-  .p{
-    color:yellow;
-  }
-
-  .basic{
-      color:yellow;
-      size:20px;
-      background-color:green;
-  }
- .school{
-      background-color: Yellow;
- }
- .skill{
-    background-color:red;
-    color:yellow;
- }
- .frab{
-     color:red;
- }
  .title{
-     background-color:black;
+     background-color:#ffffff;
  }
  .jack{
-    background-color: wheat;
-    width: calc(100vw/4.5);
-    border: solid black 5px;
+    background-color: #cccccc;
+    width: calc(100vw/4.5);   
  }
  .detail{
     position: absolute;
-    color: Wheat;
+    color: #777777;
     width: calc(90vw/2);
-    position: absolute;
     right: 550px;
     bottom: 1px;
  }
  .navigation{
-    background-color: yellow;
-    width: 70vw;
-    right: 0px;
+    background-color: #ffffff;
+    border: solid #cccccc;
+    width: 16vw;
+    height:30px;
     position: absolute;
     top: 26px;
-    right: 20px;
+    right: 31px;
+    color:#777777
  }
- .lego{
-     color:green;
-     position:relative;
-    height: 446px;
-    width: 500px;
-    background: yellow;
-    position: absolute;
-    top: 366px;
-    right: 511px;
-    border: solid black 10px;
+ .category{
+   color: #777777;
+   font-size:25px;
  }
- .offroad{
-    position:absolute;
-    left:35px;
+ .info{
+   color: #777777;
  }
- .ewd{
-     position:absolute;
-     left:40px;
+ h1{
+   color:#4aaaa5;
  }
+ .footer{
+  position:absolute;
+  bottom: 0;
+  background: #666666;
+  columns: #777777;
+  width:100vw;
+}
