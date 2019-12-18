@@ -1,0 +1,36 @@
+. 
+}
+.input {
+  color: #777777;
+}
+
+.container {
+  border: solid #666666;
+}
+.message {
+  width: 60vw;
+  height: 40vw;
+}
+.info {
+  width: 20vw;
+}
+.footer {
+  background: #666666;
+  width: 100vw;
+  color: white;
+}
+.na {
+  color: #666666;
+  font-size:20px;
+}
+h1{
+    background:#4aaaa5;
+    color:white;
+}
+p{
+    color:#666666
+}
+h2{
+    color:#4aaaa5;
+    
+}

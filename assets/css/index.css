@@ -1,0 +1,43 @@
+.number {
+  color: #4aaaa5;
+  margin: 0px;
+  border: solid#dddddd 10px;
+}
+.container {
+  top: 40px;
+  background-color: #ffffff;
+  position: relative;
+  border: solid #cccccc 4px;
+}
+
+.title{
+  color:white;
+  background:#4aaaa5;
+}
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  background: #666666;
+  columns: #777777;
+  width: 100vw;
+}
+.intro {
+  width: 60vw;
+  color:#666666;
+}
+.line {
+  background: #cccccc;
+  height: 2px;
+}
+.navigation {
+  color: #666666;
+}
+.footer{
+  width:100vw;
+  background:black;
+  color:white;
+}
+.topic{
+  color:#4aaaa5;
+}
